@@ -1,0 +1,19 @@
+{
+  "name": "ac-js-utils",
+  "version": "1.1.0",
+  "description": "A js utils modules to improve DX",
+  "main": "ac-js-utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estokari/ac-js-utils.git"
+  },
+  "author": "Alberto Corella <hola@albertocorella.com> (https://github.com/estokari)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estokari/ac-js-utils/issues"
+  },
+  "homepage": "https://github.com/estokari/ac-js-utils#readme"
+}
